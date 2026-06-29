@@ -1,0 +1,33 @@
+# Build
+build/
+CMakeCache.txt
+CMakeFiles/
+*.dir/
+*.vcxproj.user
+.vs/
+
+# Generated
+*.dll
+*.exp
+*.lib
+*.pdb
+NppLlm.res
+
+# Logs and temp
+error_build.txt
+*.log
+
+# Internal planning (keep on disk only)
+project_plan.md
+handoff.md
+
+# Screenshots of dev issues
+Screenshot*.png
+
+# Python cache
+__pycache__/
+*.pyc
+
+# OS
+.DS_Store
+Thumbs.db
