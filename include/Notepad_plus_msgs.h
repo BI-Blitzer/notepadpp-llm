@@ -1,1 +1,1 @@
-// Copied N++ header
+// Header

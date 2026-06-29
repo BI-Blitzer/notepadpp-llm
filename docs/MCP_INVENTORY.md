@@ -1,1 +1,1 @@
-// Inventory of N++ capabilities for MCP (public version)
+// Inventory of N++ capabilities (updated June 2026)

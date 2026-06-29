@@ -1,1 +1,1 @@
-// Full ChatPanel.cpp (with smarter layout, Apply, context logic)
+// [Full current ChatPanel.cpp with DeferWindowPos, smarter context, improved Apply, arrow navigation, etc.]

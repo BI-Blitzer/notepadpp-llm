@@ -1,1 +1,1 @@
-// CMake build
+// CMake instructions

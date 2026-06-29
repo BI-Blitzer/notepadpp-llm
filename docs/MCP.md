@@ -1,1 +1,1 @@
-// MCP docs (updated)
+// MCP documentation

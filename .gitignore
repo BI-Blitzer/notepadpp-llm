@@ -13,10 +13,6 @@ CMakeFiles/
 *.pdb
 NppLlm.res
 
-# Logs and temp
-error_build.txt
-*.log
-
 # Internal planning (keep on disk only)
 project_plan.md
 handoff.md

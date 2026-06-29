@@ -1,1 +1,1 @@
-// Copied header
+// Header

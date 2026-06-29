@@ -1,1 +1,1 @@
-// Full current BridgeServer.h
+// Current BridgeServer.h

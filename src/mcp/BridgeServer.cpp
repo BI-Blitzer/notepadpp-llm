@@ -1,1 +1,1 @@
-// Full current BridgeServer.cpp with many endpoints added
+// Current BridgeServer.cpp with expanded endpoints (current, selection, apply, undo, redo, goto, find, line, lang, cursor, version, command, bookmark, insert, message, buffers/list, file/open, save_all, etc.)
