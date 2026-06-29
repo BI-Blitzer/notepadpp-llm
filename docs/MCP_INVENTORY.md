@@ -1,0 +1,1 @@
+// Inventory of N++ capabilities for MCP (public version)

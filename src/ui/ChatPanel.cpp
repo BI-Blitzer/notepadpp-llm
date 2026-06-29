@@ -1,0 +1,1 @@
+// Full ChatPanel.cpp (with smarter layout, Apply, context logic)

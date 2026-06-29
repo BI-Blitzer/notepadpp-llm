@@ -1,0 +1,1 @@
+// Full ChatPanel.h from workspace (the working version with context label, improved layout, etc.)
