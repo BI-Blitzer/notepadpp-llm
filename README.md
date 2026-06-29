@@ -18,51 +18,28 @@ The plugin is in much better shape and is usable for daily work:
 
 We're pausing active development and will revisit in July 2026.
 
-See `STATUS.md` for the latest detailed status. See `docs/MCP_INVENTORY.md` for the growing list of N++ capabilities exposed via MCP.
+See `docs/MCP_INVENTORY.md` for N++ capabilities exposed via MCP.
 
 ## Key Features
 
-- **Hotkey + menu driven**: Ctrl+Shift+O (Process Selection), full Plugins → NppLLM menu
-- **Local first**: Ollama primary (LM Studio / llama.cpp / OpenAI-compatible supported)
-- **Dockable chat panel** with smart context options, streaming, Ctrl+Enter for full file
-- **Edit Config** dialog + per-user INI
-- **MCP exposure**: Let external agents read buffers and apply edits live
-- Minimal dependencies (native Windows APIs)
-
-## Quick Start
-
-### 1. Build
-See `docs/BUILD_CMAKE.md`, `docs/BUILD.md`, `docs/SETUP.md`.
-
-You will need Notepad++ headers + Visual Studio (x64, Unicode, link `winhttp.lib`).
-
-### 2. Install
-Place `NppLlm.dll` in `plugins\NppLlm\` next to your Notepad++ executable and restart N++.
-
-### 3. Use
-Have Ollama or LM Studio running.
-
-- Use **Ctrl+Shift+O** for quick process selection.
-- Use **Toggle Chat Panel** for interactive chat (with Apply to editor).
-- Start **MCP Bridge** for external agents.
-
-See README and docs/ for details.
+- Hotkey + menu driven
+- Local first (Ollama primary)
+- Dockable chat panel with smart context
+- MCP exposure for agents
 
 ## Planned Improvements
 
-- Complete remaining MCP endpoints (advanced search/replace, notifications, richer buffer metadata)
-- Panel conversation memory and history persistence
-- Polish and expand cloud backends + error handling
-- Full Config dialog resources and visuals
-- Packaging, icons, and Plugin Admin submission
+- Complete remaining MCP endpoints (advanced search/replace, notifications)
+- Panel conversation memory
+- Polish cloud backends
+- Packaging and Plugin Admin submission
 
 Revisit planned for July 2026.
 
+## Building
+
+See docs/BUILD*.md and docs/SETUP.md.
+
 ## License
 
-MIT License (see LICENSE)
-
-## Credits
-- Inspired by Krazal/nppopenai
-- N++ plugin template
-- MCP: modelcontextprotocol.io
+MIT
