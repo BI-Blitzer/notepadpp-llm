@@ -18,7 +18,7 @@ The plugin is in much better shape and is usable for daily work:
 
 We're pausing active development and will revisit in July 2026.
 
-See `docs/MCP_INVENTORY.md` for N++ capabilities exposed via MCP.
+See `docs/MCP_INVENTORY.md` for the growing list of N++ capabilities exposed via MCP.
 
 ## Key Features
 
@@ -29,16 +29,17 @@ See `docs/MCP_INVENTORY.md` for N++ capabilities exposed via MCP.
 
 ## Planned Improvements
 
-- Complete remaining MCP endpoints (advanced search/replace, notifications)
-- Panel conversation memory
-- Polish cloud backends
-- Packaging and Plugin Admin submission
+- Complete remaining MCP endpoints (advanced search/replace, notifications, richer buffer metadata)
+- Panel conversation memory and history persistence
+- Polish and expand cloud backends + error handling
+- Full Config dialog resources and visuals
+- Packaging, icons, and Plugin Admin submission
 
 Revisit planned for July 2026.
 
 ## Building
 
-See docs/BUILD*.md and docs/SETUP.md.
+See `docs/BUILD_CMAKE.md`, `docs/BUILD.md`, `docs/SETUP.md`.
 
 ## License
 
